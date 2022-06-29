@@ -1,0 +1,32 @@
+[
+    {
+        "group_id": 1,
+        "group_name": "Frontend",
+        "group_price": 450000
+    },
+    {
+        "group_id": 3,
+        "group_name": "English",
+        "group_price": 450000
+    },
+    {
+        "group_id": 4,
+        "group_name": "Math",
+        "group_price": 450000
+    },
+    {
+        "group_id": 5,
+        "group_name": "Phisisc",
+        "group_price": 450000
+    },
+    {
+        "group_id": 6,
+        "group_name": ".NET",
+        "group_price": 2000000
+    },
+    {
+        "group_id": 7,
+        "group_name": "SMM",
+        "group_price": 200000
+    }
+]

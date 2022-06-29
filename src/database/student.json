@@ -1,0 +1,95 @@
+[
+    {
+        "student_id": 1,
+        "student_name": "Odil",
+        "age": 17,
+        "balance": 900000
+    },
+    {
+        "student_id": 2,
+        "student_name": "Hoji",
+        "age": 17,
+        "balance": 770000
+    },
+    {
+        "student_id": 3,
+        "student_name": "Ashraf",
+        "age": 17,
+        "balance": 770000
+    },
+    {
+        "student_id": 4,
+        "student_name": "Muhammadrizo",
+        "age": 17,
+        "balance": 950000,
+        "group_id": 1
+    },
+    {
+        "student_id": 5,
+        "student_name": "Orif",
+        "age": 17,
+        "balance": 1850000,
+        "group_id": 3
+    },
+    {
+        "student_id": 6,
+        "student_name": "Navodir",
+        "age": 17,
+        "balance": 1850000,
+        "group_id": 3
+    },
+    {
+        "student_id": 7,
+        "student_name": "Bobur",
+        "age": 18,
+        "balance": 950000,
+        "group_id": 1
+    },
+    {
+        "student_id": 8,
+        "student_name": "Nodir",
+        "age": 17,
+        "balance": 500000,
+        "group_id": 4
+    },
+    {
+        "student_id": 9,
+        "student_name": "Ali",
+        "age": 17,
+        "balance": 500000,
+        "group_id": 4
+    },
+    {
+        "student_id": 10,
+        "student_name": "Bob",
+        "age": 17,
+        "balance": 1850000,
+        "group_id": 3
+    },
+    {
+        "student_id": 11,
+        "student_name": "John",
+        "age": 17,
+        "balance": 500000
+    },
+    {
+        "student_id": 12,
+        "student_name": "Gayrat",
+        "age": 21,
+        "balance": 5050000,
+        "group_id": 6
+    },
+    {
+        "student_id": 13,
+        "student_name": "Sobir",
+        "age": 19,
+        "balance": 200000,
+        "group_id": 7
+    },
+    {
+        "student_id": 14,
+        "student_name": "Sayfullo",
+        "age": 19,
+        "balance": 100000
+    }
+]
